@@ -1,0 +1,33 @@
+html{
+    font-size: 24px;
+}/*establece en tamaño del html*/
+h1{
+    font-size: 16px;
+}/*establece en tamaño del h1*/
+h2{
+    font-size: 1rem;
+}/*establece en tamaño del h2*/
+h3{
+    font-size: 1.75rem;
+}/*establece en tamaño del h3*/
+h4{
+    font-size: 1.5rem;
+}/*establece en tamaño del h4*/
+h5{
+    font-size: 1.25rem;
+}/*establece en tamaño del h5*/
+h6{
+    font-size: 1.05rem;
+}/*establece en tamaño del h6*/
+.contenedor{
+    width: 70%;
+    height: 400px;
+    background-color: aqua;
+    margin: 30px auto;
+}/*establece el ancho, la altura, el color de fondo y  el margen*/
+.hijo{
+    width: 70vw;
+    height: 50vh;
+    background-color: violet;
+    margin-top: 30px;
+}/*establece el ancho, la altura, el color de fondo y  el margen*/
